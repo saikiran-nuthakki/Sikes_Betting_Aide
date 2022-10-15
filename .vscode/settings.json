@@ -1,0 +1,9 @@
+{
+  "eslint.codeActionsOnSave.rules": {
+    "source.organizeImports": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false
+  },
+  "editor.tabSize": 2
+}
